@@ -1,5 +1,5 @@
 FROM node
 
-RUN npm install serverless
+RUN npm install --global serverless
 
 ENTRYPOINT []
